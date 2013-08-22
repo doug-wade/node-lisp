@@ -1,4 +1,4 @@
 node-lisp
 =========
 
-A In-browser Common Lisp REPL served by Nodejs
+An in-browser Common Lisp REPL served by Nodejs
